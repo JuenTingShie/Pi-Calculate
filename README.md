@@ -11,7 +11,7 @@ a website talk about Pi : [link](http://www.math.com/tables/constants/pi.htm)
 to compare solutions, use [this](https://text-compare.com/) and [this](https://www.browserling.com/tools/remove-all-whitespace)
 
 [pi_calculate.py](https://github.com/JuenTingShie/Pi-Calculate/blob/master/pi_calculate.py)
-```pyhon
+```python
 import sys
 
 def calcPi():
