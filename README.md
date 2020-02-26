@@ -10,6 +10,7 @@ I use [Google Colab](https://colab.research.google.com/) to calculate Pi numbers
 a website talk about Pi : [link](http://www.math.com/tables/constants/pi.htm)    
 to compare solutions, use [this](https://text-compare.com/) and [this](https://www.browserling.com/tools/remove-all-whitespace)
 
+Run in local pc:
 [pi_calculate.py](https://github.com/JuenTingShie/Pi-Calculate/blob/master/pi_calculate.py)
 ```python
 import sys
